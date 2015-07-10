@@ -13,7 +13,7 @@
       ms.topic="article"
       ms.tgt_pltfrm="na"
       ms.workload="identity"
-      ms.date="03/23/2015"
+      ms.date="10/07/2015"
       ms.author="shoatman"/>
 
 # How and why applications are added to Azure AD
