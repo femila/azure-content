@@ -18,7 +18,7 @@
 
 # How and why applications are added to Azure AD
 
-One of the initially puzzling things when viewing a list of applications in your instance of Azure Active Directory is understanding where the applications came from and why they are there.  This article will provide a high level overview of how applications are represented in the directory and provide you with context that will assist you in understanding how an application came to be in your directory.
+One of the puzzling things when viewing a list of applications in your instance of Azure Active Directory is understanding where the applications came from and why they are there.  This article will provide a high level overview of how applications are represented in the directory and provide you with context that will assist you in understanding how an application came to be in your directory.
 
 ## What services does Azure AD provide to applications?
 
